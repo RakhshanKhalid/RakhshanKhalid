@@ -6,4 +6,6 @@ Hi there 👋. I’m Rakhshan Khalid, a skilled and results-driven Android Devel
 
 ## Get in touch :coffee:
 
-- [LinkedIn](https://www.linkedin.com/in/rakhshan-khalid/)
+[<img src="[https://github.com/RakhshanKhalid/RakhshanKhalid/blob/main/resources/banner.png](https://github.com/RakhshanKhalid/RakhshanKhalid/blob/main/resources/icons/linkedIn_icon.png)" alt="Hello world">] - [LinkedIn](https://www.linkedin.com/in/rakhshan-khalid/)
+
+
