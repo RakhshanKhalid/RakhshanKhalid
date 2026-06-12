@@ -8,9 +8,19 @@ Hi there 👋. I’m Rakhshan Khalid, a skilled and results-driven Android Devel
 
 ## Get in touch :coffee:
 
+<a href="https://play.google.com/store/apps/dev?id=5558245871435331916&hl=en_IN" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/RakhshanKhalid/RakhshanKhalid/blob/main/resources/icons/linkedIn_icon.png"
+       width="64" height="64" />
+</a>
+
 <a href="https://www.linkedin.com/in/rakhshan-khalid/" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/RakhshanKhalid/RakhshanKhalid/blob/main/resources/icons/linkedIn_icon.png"
-       width="24" height="24" />
+       width="64" height="64" />
+</a>
+
+<a href="https://rakhshan.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/RakhshanKhalid/RakhshanKhalid/blob/main/resources/icons/linkedIn_icon.png"
+       width="64" height="64" />
 </a>
 
 
